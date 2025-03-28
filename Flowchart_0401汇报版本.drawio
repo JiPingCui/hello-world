@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.0.5">
   <diagram name="第 1 页" id="pvQhF8AryuaIjtNejtY6">
-    <mxGraphModel dx="1687" dy="929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2390" dy="1317" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry x="120" y="100" width="600" height="740" as="geometry" />
         </mxCell>
         <mxCell id="ZDDg7BtM7HiDD9HuNslG-3" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-90;strokeWidth=1;perimeterSpacing=1;fillColor=none;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
-          <mxGeometry x="327.5" y="377.5" width="357.5" height="377.5" as="geometry" />
+          <mxGeometry x="323.75" y="373.75" width="357.5" height="385" as="geometry" />
         </mxCell>
         <mxCell id="T4NdSgvmd6i7ijyYlSUB-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="T4NdSgvmd6i7ijyYlSUB-1" target="vzksnj_4x7iH5aSXOHEv-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -19,7 +19,7 @@
         <mxCell id="T4NdSgvmd6i7ijyYlSUB-1" value="Raw data" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZDDg7BtM7HiDD9HuNslG-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="T4NdSgvmd6i7ijyYlSUB-2" target="ZDDg7BtM7HiDD9HuNslG-4">
+        <mxCell id="ZDDg7BtM7HiDD9HuNslG-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="T4NdSgvmd6i7ijyYlSUB-2" target="ZDDg7BtM7HiDD9HuNslG-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T4NdSgvmd6i7ijyYlSUB-2" value="ApEn detector" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -31,11 +31,10 @@
         <mxCell id="T4NdSgvmd6i7ijyYlSUB-3" value="Low quality data" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="T4NdSgvmd6i7ijyYlSUB-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="T4NdSgvmd6i7ijyYlSUB-4" target="T4NdSgvmd6i7ijyYlSUB-10" edge="1">
+        <mxCell id="T4NdSgvmd6i7ijyYlSUB-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="T4NdSgvmd6i7ijyYlSUB-4" target="ZDDg7BtM7HiDD9HuNslG-23" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="220" y="690" />
-              <mxPoint x="390" y="690" />
+              <mxPoint x="360" y="690" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -63,7 +62,7 @@
         <mxCell id="T4NdSgvmd6i7ijyYlSUB-8" value="Electrode distance weighter" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="T4NdSgvmd6i7ijyYlSUB-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="T4NdSgvmd6i7ijyYlSUB-9" target="T4NdSgvmd6i7ijyYlSUB-10" edge="1">
+        <mxCell id="T4NdSgvmd6i7ijyYlSUB-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="T4NdSgvmd6i7ijyYlSUB-9" target="ZDDg7BtM7HiDD9HuNslG-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T4NdSgvmd6i7ijyYlSUB-9" value="Augmented data" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -102,8 +101,8 @@
         <mxCell id="ZDDg7BtM7HiDD9HuNslG-11" value="Physiological and anatomical basis" style="whiteSpace=wrap;html=1;fillColor=none;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZDDg7BtM7HiDD9HuNslG-13" value="Discrimination alignment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="260" y="551.25" width="150" height="30" as="geometry" />
+        <mxCell id="ZDDg7BtM7HiDD9HuNslG-13" value="&lt;div&gt;Data augmentation based on&lt;/div&gt;&lt;div&gt;other electrodes&#39; data&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="245" y="546.25" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZDDg7BtM7HiDD9HuNslG-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZDDg7BtM7HiDD9HuNslG-14" target="ZDDg7BtM7HiDD9HuNslG-18">
           <mxGeometry relative="1" as="geometry" />
@@ -116,6 +115,12 @@
         </mxCell>
         <mxCell id="ZDDg7BtM7HiDD9HuNslG-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.49;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="ZDDg7BtM7HiDD9HuNslG-3" target="ZDDg7BtM7HiDD9HuNslG-21">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDDg7BtM7HiDD9HuNslG-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZDDg7BtM7HiDD9HuNslG-23" target="T4NdSgvmd6i7ijyYlSUB-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDDg7BtM7HiDD9HuNslG-23" value="Discrimination alignment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
