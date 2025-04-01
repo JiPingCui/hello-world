@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.1.3">
   <diagram name="第 1 页" id="pvQhF8AryuaIjtNejtY6">
-    <mxGraphModel dx="2049" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2167,6 +2167,36 @@
         </mxCell>
         <mxCell id="e_MWSZQHDiEphQTOvGXz-442" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Lobe&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="e_MWSZQHDiEphQTOvGXz-810">
           <mxGeometry x="290" y="681.9756097560976" width="20" height="14.634146341463413" as="geometry" />
+        </mxCell>
+        <mxCell id="e_MWSZQHDiEphQTOvGXz-811" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="3100" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="e_MWSZQHDiEphQTOvGXz-812" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1290" y="3110" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="e_MWSZQHDiEphQTOvGXz-813" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="e_MWSZQHDiEphQTOvGXz-812" source="e_MWSZQHDiEphQTOvGXz-814" target="e_MWSZQHDiEphQTOvGXz-816">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_MWSZQHDiEphQTOvGXz-814" value="AutoEncoder" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="e_MWSZQHDiEphQTOvGXz-812">
+          <mxGeometry width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e_MWSZQHDiEphQTOvGXz-815" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="e_MWSZQHDiEphQTOvGXz-812" source="e_MWSZQHDiEphQTOvGXz-816" target="e_MWSZQHDiEphQTOvGXz-819">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_MWSZQHDiEphQTOvGXz-816" value="Linear regression" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="e_MWSZQHDiEphQTOvGXz-812">
+          <mxGeometry x="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e_MWSZQHDiEphQTOvGXz-817" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="e_MWSZQHDiEphQTOvGXz-812" source="e_MWSZQHDiEphQTOvGXz-818" target="e_MWSZQHDiEphQTOvGXz-816">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_MWSZQHDiEphQTOvGXz-818" value="Loss_ApEn" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="e_MWSZQHDiEphQTOvGXz-812">
+          <mxGeometry x="80" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e_MWSZQHDiEphQTOvGXz-819" value="Alpha_best" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="e_MWSZQHDiEphQTOvGXz-812">
+          <mxGeometry x="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e_MWSZQHDiEphQTOvGXz-820" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Electrode distance weighter&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="3180" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
